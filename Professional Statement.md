@@ -10,11 +10,11 @@ The triangle of the high technology, business administration and many years of w
 up to stabilizing business critical service operations in different industries, has empowered me to design, develop, improve 
 and apply cybersecurity measurements.
 
-My vision include the following criterie
-* Safegaurd the 
-* Minimising the cost and damages by cyber attacks
+My vision consist of:
+* Safegaurd the people, organizations and society
 * Reducing the system vulnerabilities
 * Increase system integrity and reliability
+* Minimizing the cost and the damages by cyber attacks
 
 Industry of focus:
 * Financial Sector industries
