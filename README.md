@@ -1,5 +1,5 @@
 # Cyber-Security-Portfolio
-This repository contains cyber security projects for
+This repository contains cyber security projects based on the Google Cyber Security Professional Certificate
 
 * Drafting a professional security statement
 * Conducting a security audit
