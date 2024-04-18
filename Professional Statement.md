@@ -1,20 +1,21 @@
 # Professional Statement in Cyber-Security
 
-As a tech enthusiast, I am committed to safegaurd the people, organizations, society and their assets by following the laws 
-and regulations in the era of internet technology. 
+As a tech enthusiast, I am committed to safeguard the businesses and their assets by following 
+the laws and legal regulations in the era of internet technology. 
 
-By innovating and applying high technologies like generative artificial intelligence in cybersecurity applications, 
-trying to achieve high level of integrity and sustainability. 
+By innovating and applying high technologies like generative artificial intelligence in the 
+cybersecurity applications, trying to achieve high level of integrity and sustainability. 
 
-The triangle of the high technology, business administration and many years of working experience - from development 
-up to stabilizing business critical service operations in different industries, has empowered me to design, develop, improve 
-and apply cybersecurity measurements.
+The triangle of the high technology, business administration and many years of working experience 
+- from development up to stabilizing business critical service operations in different industries,
+has empowered me to design, develop, improve and apply cybersecurity measurements.
 
-My vision consist of:
-* Safegaurd the people, organizations and society
-* Reducing the system vulnerabilities
-* Increase system integrity and reliability
-* Minimizing the cost and the damages by cyber attacks
+
+Vision:
+* Maintain the business continuity
+* Increase integrity and reliability in business cases
+* Analyzing and mitigating the security vulnerabilities 
+* Minimizing the cost and the damages caused by cyber attacks
 
 Industry of focus:
 * Financial Sector industries
