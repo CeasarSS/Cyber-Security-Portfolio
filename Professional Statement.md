@@ -7,8 +7,8 @@ By innovating and applying high technologies like generative artificial intellig
 trying to achieve high level of integrity and sustainability. 
 
 The triangle of the high technology, business administration and many years of working experience - from development 
-up to stabilizing business critical service operations in different industries, empowered me to design, develop, improve 
-and apply new cybersecurity applications.
+up to stabilizing business critical service operations in different industries, has empowered me to design, develop, improve 
+and apply cybersecurity measurements.
 
 My vision include the following criterie
 * Safegaurd the 
